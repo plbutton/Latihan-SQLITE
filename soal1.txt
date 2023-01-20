@@ -1,0 +1,6 @@
+CREATE TABLE Penjurusan(
+    NamaJurusan TEXT PRIMARY KEY,
+    JumlahMahasiswa INTEGER,
+    JumlahMataKuliah INTEGER,
+    RataRataIndeks REAL
+);
